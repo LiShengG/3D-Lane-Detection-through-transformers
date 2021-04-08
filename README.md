@@ -16,6 +16,7 @@ The dataset is divided into three parts.(1)balances scenes; (2)rarely observed; 
 | ours        | 92.5    | 90.4 | 0.01  | 0.239 | 95.4         | 93.3 | 0.01  | 0.219 |
 
 - (2)rarely observed
+
 | Method      | lane    |      |       |       |  Cneter lane |      |       |       |
 |:-----------:|:-------:|:----:|:-----:|:-----:|:------------:|:----:|:-----:|:-----:|
 | 3D-LaneNet  | 72      | 74.6 | 0.039 | 0.521 | 77           | 80   | 0.04  | 0.557 |
@@ -23,6 +24,7 @@ The dataset is divided into three parts.(1)balances scenes; (2)rarely observed; 
 | ours        | 85.2    | 83.5 | 0.027 | 0.617 | 87.1         | 84.8 | 0.028 | 0.648 |
 
 - (3)visual variations
+
 | Method      | lane    |      |       |       |  Cneter lane |      |       |       |
 |:-----------:|:-------:|:----:|:-----:|:-----:|:------------:|:----:|:-----:|:-----:|
 | 3D-LaneNet  | 72.5    | 74.9 | 0.032 | 0.23  | 75.5         | 77.7 | 0.03  | 0.227 |
