@@ -1,6 +1,9 @@
 # 3D-Lane-Detection-through-transformers
-**Our project code will be published soon**
-This is This repository is an official implementation of the paper *3D Lane Detection through transformers*
+
+🙂 **Our project code will be published soon**
+
+This repository is an official implementation of the paper *3D Lane Detection through transformers*
+
 This is our methed architecture
 ![ous model](https://github.com/LiShengG/3D-Lane-Detection-through-transformers/blob/main/model.png)
 
