@@ -4,10 +4,10 @@
 
 This repository is an official implementation of the paper *3D Lane Detection through transformers*
 
-This is our methed architecture
+Our methed architecture is as following
 ![ous model](https://github.com/LiShengG/3D-Lane-Detection-through-transformers/blob/main/model.png)
 
-Main comparison with the state-of-art methods on ![synthetic dataset](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection).
+Main comparison with state-of-the-art methods on ![synthetic dataset](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection).
 The dataset is divided into three parts.(1)balances scenes; (2)rarely observed; (3)visual variations
 
 - (1)balances scenes
